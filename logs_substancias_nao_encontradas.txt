@@ -1,0 +1,213 @@
+=== LOG DE SUBSTÂNCIAS NÃO ENCONTRADAS (NENHUMA ENCONTRADA) ===
+Formato: Registro do Medicamento | Princípio Ativo Original
+
+126270014 | alfagalsidase
+110630123 | Poliovírus Tipo 1, Poliovírus Tipo 2, Poliovírus Tipo 3
+139670002 | Imunoglobulina Heteróloga
+122340016 | Anatoxina Diftérica, Anatoxina Tetânica
+105530383 | Cepa influenza tipo A (H1N1), Cepa influenza tipo A (H3N2), Cepa influenza tipo B
+130300001 | FLUDESOXIGLICOSE 18F
+101710235 | POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 1, POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 3 , POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 4 , POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 5, POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 6A , POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SORO
+122340021 | imunoglobulina heteróloga contra veneno de Lonomia obliqua
+181000013 | octreotato tetraxetana (177  Lu)
+122340017 | PROTEÍNA ANTIGÊNICA DE SUPERFÍCIE (HEP. B)
+183260346 | Toxóide pertussis, Hemaglutinina Filamentosa, FÍMBRIAS, Pertactina, Toxóide diftérico, Toxóide Tetânico
+101070083 | Antígeno de superfície da Hepatite B, PROTEÍNA ANTIGÊNICA DE SUPERFÍCIE (HEP. B)
+183260337 | VÍRUS QUIMÉRICO FEBRE AMARELA DENGUE SOROTIPO 1, VÍRUS QUIMÉRICO FEBRE AMARELA DENGUE SOROTIPO 2, VÍRUS QUIMÉRICO FEBRE AMARELA DENGUE SOROTIPO 3, VÍRUS QUIMÉRICO FEBRE AMARELA DENGUE SOROTIPO 4
+ | AMESPRO FLUORNICOTINAMIDA (18 F)
+183260332 | Cepa influenza tipo A (H1N1), Cepa influenza tipo A (H3N2), Cepa influenza tipo B, CEPA INFLUENZA TIPO B
+110630106 | VÍRUS DO SARAMPO, vacina contra sarampo, vacina contra caxumba, vacina contra rubéola
+100610092 | AVENA SATIVA, PASSIFLORA ALATA, VALERIANA OFFICINALIS
+117290012 | EXTRATOS ALERGÊNICOS DE INSETOS SUGADORES
+110850011 | ÁGUA PARA INJETÁVEIS QSP, ÁGUA PARA INJEÇÃO, ÁGUA PARA INJEÇÃO q.s.p., água para injeção
+100610055 | ARGENTUM NITRICUM, BERBERIS VULGARIS, ATROPA BELLADONNA, HYDRASTIS CANADENSIS, SILICEA
+173590008 | EDOTREOTIDA (68 GA)
+100610007 | BARYTA CARBONICA, BERBERIS VULGARIS, CALCAREA CARBONICA, MERCURIUS SULPHURATUS RUBER
+183260341 | Cepa influenza tipo A (H1N1), Cepa influenza tipo A (H3N2), CEPA INFLUENZA TIPO B, Cepa influenza tipo B
+102470024 | AGNUS CASTUS, CONIUM MACULATUM, NUPHAR LUTEUM, ONOSMODIUM VIRGINIanum
+122340015 | Anatoxina Diftérica, Anatoxina Tetânica, Antígeno Pertussis
+105530336 | Cepa influenza tipo A (H1N1), Cepa influenza tipo A (H3N2), CEPA INFLUENZA TIPO B
+199610001 | FLUDESOXIGLICOSE 18F
+123890080 | ESPONJA ESTERIL DE GELATINA ABSORVIVEL, GELATINA ABSORVÍVEL
+119090017 | SELÊNIO
+ | AMESPRO FLUORNICOTINAMIDA (18 F)
+183260489 | Cepa influenza tipo A (H1N1), Cepa influenza tipo A (H3N2), CEPA INFLUENZA TIPO B, Cepa influenza tipo B
+115570068 | RHAMNUS PURSHIANA DC.
+110630002 | Vírus 17D da Febre Amarela
+101510133 | Cepa influenza tipo A (H1N1), Cepa influenza tipo A (H3N2), CEPA INFLUENZA TIPO B
+150920001 | pertecnetato de sódio (99m Tc)
+104910069 | ÁGUA PARA INJETÁVEIS QSP
+109600003 | proteínas plasmáticas humanas
+ | FLUORESTRADIOL (18 F)
+122340014 | Anatoxina Diftérica, Anatoxina Tetânica
+102160243 | POLISSACARÍDEO DE NEISSERIA MENINGITIDIS DO SOROGRUPO A CONJUGADO A PROTEÍNA CARREADORA TOXOIDE TETÂNICO, POLISSACARÍDEO DE NEISSERIA MENINGITIDIS DO SOROGRUPO C CONJUGADO A PROTEÍNA CARREADORA TOXOIDE TETÂNICO, POLISSACARÍDEO DE NEISSERIA MENINGITIDIS DO SOROGRUPO Y CONJUGADO A PROTEÍNA CARREADORA TOXOIDE TETÂNICO, POLISSACARÍDEO DE NEISSERIA MENINGITIDIS DO SOROGRUPO W CONJUG
+183260470 | POLISSACARÍDEO DE NEISSERIA MENINGITIDIS DO SOROGRUPO A CONJUGADO A PROTEÍNA CARREADORA TOXOIDE TETÂNICO, POLISSACARÍDEO DE NEISSERIA MENINGITIDIS DO SOROGRUPO C CONJUGADO A PROTEÍNA CARREADORA TOXOIDE TETÂNICO, POLISSACARÍDEO DE NEISSERIA MENINGITIDIS DO SOROGRUPO W CONJUGADO A PROTEÍNA CARREADORA TOXOIDE TETÂNICO , POLISSACARÍDEO DE NEISSERIA MENINGITIDIS DO SOROGRUPO Y CONJU
+112090121 | imunoglobulina heteróloga contra veneno de Bothrops sp, Imunoglobulina Heteróloga contra o veneno de Lachesis muta
+183260333 | imunoglobulina antitimócito
+101710211 | Partícula semelhante a vírus de proteína L1 do HPV do tipo 6, Partícula semelhante a vírus de proteína L1 do HPV do tipo 11, Partícula semelhante a vírus de proteína L1 do HPV do tipo 16, Partícula semelhante a vírus de proteína L1 do HPV do tipo 18
+ | AMESPRO FLUORNICOTINAMIDA (18 F)
+164000008 | cloreto de cálcio diidratado
+183260413 | POLISSACARÍDEO
+112090123 | imunoglobulina heteróloga contra veneno de Bothrops sp, imunoglobulina heteróloga contra veneno de Crotalus sp
+122340003 | imunoglobulina heteróloga contra veneno de Bothrops sp, imunoglobulina heteróloga contra veneno de Crotalus sp
+122340007 | imunoglobulina heteróloga contra veneno de Bothrops sp, Imunoglobulina Heteróloga
+179250001 | FLUDESOXIGLICOSE 18F
+181000024 | iodeto de sódio 131I
+122340011 | Imunoglobulina heteróloga contra toxina diftérica
+121100468 | POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 1, POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 6B, POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 3 , POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 4 , POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 5, POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROT
+117290006 | CORYNEBACTERIUM PARVUM
+101070161 | Toxóide diftérico, Toxóide Tetânico, Toxóide pertussis, Hemaglutinina Filamentosa, Pertactina
+ | AMESPRO FLUORNICOTINAMIDA (18 F)
+122340047 | Antígeno de superfície da Hepatite B
+183260510 | Cepa influenza tipo A (H1N1), Cepa influenza tipo A (H3N2), CEPA INFLUENZA TIPO B
+101070282 | Toxóide diftérico, Toxóide Tetânico, Toxóide pertussis, Hemaglutinina Filamentosa, Pertactina, Poliovírus inativados tipo 1, Poliovírus inativados tipo 3, Poliovírus inativados tipo 2
+ | AMESPRO FLUORNICOTINAMIDA (18 F)
+101710214 | VÍRUS DO SARAMPO, VÍRUS DA CAXUMBA, VÍRUS DA RUBEOLA, Virus da varicela
+122340054 | Cepa influenza tipo A (H1N1), Cepa influenza tipo A (H3N2), Cepa influenza tipo B
+183260347 | Cepa influenza tipo A (H1N1), Cepa influenza tipo A (H3N2), Cepa influenza tipo B
+119610004 | ÁCIDO POLIACRÍLICO
+112090120 | Imunoglobulina Heteróloga contra veneno de Micrurus
+ | OCTREOTIDA NOTA ALUMÍNIO (18 F)
+121420665 | SYMPHYTUM OFFICINALE
+104070097 | imunoglobulina heteróloga contra veneno de Tityus serrulatus
+101070243 | ROTAVÍRUS HUMANO ATENUADO
+112090118 | imunoglobulina heteróloga contra veneno de Bothrops sp
+110630164 | Oligossacarídeo Meningocócico A, Proteína Diftérica CRM 197, OLIGOSSACARÍDEO MENINGOCÓCICO DO GRUPO C, Oligossacarídeo Meningocócico W135, Oligossacarídeo Meningocócico Y
+110630130 | STREPTOCOCCUS PNEUMONIAE
+122340051 | Virus da varicela
+115600248 | HARPAGOPHYTUM PROCUMBENS DC. EX MEISSN. E/OU HARPAGOPHYTUM ZEYHERI DECNE
+122340009 | Imunoglobulina heteróloga contra toxina tetânica
+115570048 | GLUCANA
+101180599 | LISADO BACTERIANO DE ESCHERICHIA COLI
+101710213 | VÍRUS DA RUBEOLA, VÍRUS DO SARAMPO, VÍRUS DA CAXUMBA
+136410004 | IMUNOGLOBULINA ANTI-D
+183260391 | Toxóide diftérico, Toxóide Tetânico, Toxóide pertussis, Hemaglutinina Filamentosa, Poliovírus Tipo 1 (Mahoney), Poliovírus Tipo 2, Poliovírus Tipo 3, POLISSACARIDEO DE HAEMOPHILUS INFLUENZAE TIPO B
+105710185 | PAMOATO DE PIRVÍNIO
+101660016 | Mycobacterium bovis
+100419942 | ÓLEO DE PEIXE
+112090142 | Oligossacarídeo Meningocócico A, Proteína Diftérica CRM 197, OLIGOSSACARÍDEO MENINGOCÓCICO DO GRUPO C, Oligossacarídeo Meningocócico W135, Oligossacarídeo Meningocócico Y
+181000004 | dextrana 500 (99m Tc)
+100681186 | VIPIVOTIDA TETRAXETANA (177 LU)
+101070148 | VÍRUS DO SARAMPO, VÍRUS DA CAXUMBA, VÍRUS DA RUBEOLA
+112090119 | imunoglobulina heteróloga contra veneno de Tityus serrulatus
+100580122 | LISADO BACTERIANO
+101070314 | Cepa influenza tipo A (H1N1), Cepa influenza tipo A (H3N2), CEPA INFLUENZA TIPO B
+111040002 | FLUDESOXIGLICOSE 18F
+100610072 | FERRUM SIDEREUM, PHOSPHORUS, PRUNUS SPINOSA
+101070156 | Toxóide diftérico, Toxóide Tetânico, Toxóide pertussis, Hemaglutinina Filamentosa, Pertactina, Poliovírus Tipo 1, Poliovírus Tipo 2, Poliovírus Tipo 3, Haemophilus influenzae tipo b, Poliovírus inativados tipo 1, Poliovírus inativados tipo 2, Poliovírus inativados tipo 3
+161980014 | BERBERIS VULGARIS, CITRULLUS COLOCYNTHIS, Colocynthis, VERATRUM ALBUM
+110630146 | Poliovírus Tipo 1, Poliovírus Tipo 3
+156510038 | ÁCIDO ÉPSILON AMINOCAPRÓICO
+181000019 | citrato de gálio 67Ga
+100610084 | APIS MELLIFICA, ATROPA BELLADONNA
+122340020 | Cepa influenza tipo A (H1N1), Cepa influenza tipo A (H3N2), CEPA INFLUENZA TIPO B, Cepa influenza tipo B
+122340013 | imunoglobulina heteróloga contra veneno de Crotalus sp
+110630128 | ROTAVÍRUS HUMANO ATENUADO
+192710004 | Mycobacterium bovis
+110630121 | Polissacarídeo de Haemophilus influenzae tipo b, Toxóide diftérico, Toxóide Tetânico, Pertussis celular
+156510039 | ASPARTATO DE L-ARGININA
+173590006 | pirofosfato tetrassódico decaidratado
+112090132 | OLIGOSSACARÍDEO MENINGOCÓCICO DO GRUPO C
+113980038 | ÉSTERES ETÍLICOS DOS ÁCIDOS GRAXOS DO ÓLEO DE PAPOULA IODADOS
+110630167 | Toxóide diftérico, Toxóide Tetânico, Toxóide pertussis, Hemaglutinina Filamentosa, Poliovírus Tipo 1 (Mahoney), Poliovírus Tipo 2, Poliovírus Tipo 3, Antígeno de superfície da Hepatite B, Polissacarídeo de Haemophilus influenzae tipo b conjugado com proteína tetânica
+117290008 | LISADO BACTERIANO
+101070363 | Cepa influenza tipo A (H1N1), Cepa influenza tipo A (H3N2), CEPA INFLUENZA TIPO B, Cepa influenza tipo B
+105730032 | MESILATO DE DIIDROERGOCRISTINA
+102470083 | ARGENTUM NITRICUM, KALI BROMATUM
+ | OCTREOTATO TETRAXETANA (68 GA)
+161980001 | Cocculus indicus, CONIUM MACULATUM, AMBRA GRISEA, Petroleum
+122340002 | imunoglobulina heteróloga contra veneno de Micrurus frontalis
+156250001 | Interferon alfa 2a
+103410003 | MONOSSIALOGANGLIOSIDEO
+157110001 | Antimonium crudum, KALIUM CARBONICUM, SULPHUR, NATRUM MURIATICUM, Mercurius solubilis, Aurum metallicum, Ammonium muriaticum
+ | fluordopa 18F
+116880015 | ETOPOSIDO
+101070276 | VÍRUS DO SARAMPO, VÍRUS DA CAXUMBA, VÍRUS DA RUBEOLA, Virus da varicela
+101710217 | Virus da varicela
+100663401 | EXTRATO SECO DE AESCULUS HIPPOCASTANUM L.
+101710212 | Partícula semelhante a vírus de proteína L1 do HPV do tipo 6, Partícula semelhante a vírus de proteína L1 do HPV do tipo 11, Partícula semelhante a vírus de proteína L1 do HPV do tipo 16, Partícula semelhante a vírus de proteína L1 do HPV do tipo 18, PARTÍCULA SEMELHANTE A VÍRUS DE PROTEÍNA L1 DO HPV DO TIPO 31, PARTÍCULA SEMELHANTE A VÍRUS DE PROTEÍNA L1 DO HPV DO TIPO 33, PAR
+ | FLUORESTRADIOL (18 F)
+101070320 | OLIGOSSACARÍDEO MENINGOCÓCICO DO GRUPO C, PROTEÍNA CARREADORA
+101070273 | POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 1, POLISSACARÍDEO CONJUGADO DE STREPTOCOCCUS PNEUMONIAE TIPO 1, POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 4 , POLISSACARÍDEO CONJUGADO DE STREPTOCOCCUS PNEUMONIAE TIPO 4, POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 5, POLISSACARÍDEO CONJUGADO DE STREPTOCOCCUS PNEUMONIAE TIPO 5, POLI
+183260395 | Toxóide diftérico, Toxóide Tetânico, Toxóide pertussis, Hemaglutinina Filamentosa, Poliovírus Tipo 1 (Mahoney), Poliovírus Tipo 2, Poliovírus Tipo 3, Antígeno de superfície da Hepatite B, Polissacarídeo de Haemophilus influenzae tipo b
+ | AMESPRO FLUORNICOTINAMIDA (18 F)
+197770001 | FLUDESOXIGLICOSE 18F
+101510131 | Cepa influenza tipo A (H1N1), Cepa influenza tipo A (H3N2), CEPA INFLUENZA TIPO B
+100610093 | HYDRASTIS CANADENSIS, QUERCUS ROBUR
+181000003 | FLUDESOXIGLICOSE 18F
+161980008 | EUPHORBIA RESINIFERA, Pulsatilla, LUFFA OPERCULATA, MERCURIUS IODATUS RUBER, HEPAR SULPHUR, ARGENTUM NITRICUM
+183260389 | Toxóide diftérico, Toxóide Tetânico, Toxóide pertussis, Hemaglutinina Filamentosa, Poliovírus inativados tipo 1, Poliovírus inativados tipo 2, Poliovírus inativados tipo 3
+115570015 | SACCHAROMYCES CEREVISAE
+122340046 | Toxóide diftérico, Toxóide Tetânico, Toxóide pertussis, Hemaglutinina Filamentosa, Pertactina
+110630143 | Virus da varicela, VÍRUS DA RUBEOLA, VÍRUS DA CAXUMBA, VÍRUS DO SARAMPO
+ | AMESPRO FLUORNICOTINAMIDA (18 F)
+181080001 | FLUDESOXIGLICOSE 18F
+122340006 | imunoglobulina heteróloga contra veneno de Tityus serrulatus
+117290009 | LÃ DE CARNEIRO, FUNGOS DE AR, FUNGOS DO AR, ÁCAROS, ANTIGENOS BACTERIANOS SOB A FORMA DE LISADOS, ANTÍGENOS BACTERIANAS SOB A FORMA DE LISADO
+122340055 | Cepa influenza tipo A (H1N1), Cepa influenza tipo A (H3N2), CEPA INFLUENZA TIPO B, Cepa influenza tipo B
+110630122 | Polissacarídeo de Haemophilus influenzae tipo b
+101710210 | POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 1, POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 2, POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 3 , POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 4 , POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 5, POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTI
+ | AMESPRO FLUORNICOTINAMIDA (18 F)
+101070110 | VÍRUS DA HEPATITE A INATIVADO
+181000012 | IOBENGUANO 131I
+181000016 | cloreto de tálio (201 Tl)
+122340045 | VÍRUS DA HEPATITE A PURIFICADO INATIVADO
+117290011 | POLIPEPTÍDEO DIALIZÁVEL DE EXTRATO DE LEUCÓCITO
+183260400 | Toxóide pertussis, Hemaglutinina Filamentosa, Toxóide diftérico, AGLUTINÓGENOS FIMBRIAIS DE BORDETELLA PERTUSSIS DOS SOROTIPOS 2 E 3, Toxóide Tetânico, Pertactina, pertactina
+170560104 | cloreto de rádio (223 Ra)
+112090124 | imunoglobulina heteróloga contra veneno de Crotalus sp
+178170095 | FENOFIBRATOS MICROGRÂNULOS A 75%
+101180616 | LISADO BACTERIANO
+185140001 | TRICLORETO DE GÁLIO (68 GA)
+102980368 | ÁGUA PARA INJETÁVEIS QSP
+104430009 | BACILLUS CEREUS
+181000001 | FLUDESOXIGLICOSE 18F
+183260390 | Poliovírus inativados tipo 1, Poliovírus inativados tipo 2, Poliovírus inativados tipo 3
+109630056 | OPERCULINA ALATA (HAM.) URB.
+101070162 | Conjugado de Polissacarídeo Capsular de Haemophilus Influenzae tipo B e toxóide tetânico, Toxóide pertussis, Pertactina, Toxóide diftérico, Toxóide Tetânico, Poliovírus inativados tipo 1, Poliovírus inativados tipo 2, Poliovírus inativados tipo 3, Hemaglutinina Filamentosa, Antígeno de superfície da Hepatite B
+100610067 | DISSULFETO FERROSO, FERRUM SULFURATUM, MERCURIUS SULPHURATUS RUBER, Mercurius sulfuratum
+139670001 | imunoglobulina heteróloga contra veneno de Bothrops sp
+122340019 | Imunoglobulina heteróloga contra toxina botulínica tipo A, Imunoglobulina heteróloga contra toxina botulínica tipo B
+161980005 | ACONITUM NAPELLUS, BRYONIA CRETICA L., LACHESIS MUTA, PHOSPHORUS, EUPATORIUM PERFOLIATUM L.
+183260392 | Toxóide pertussis, Hemaglutinina Filamentosa, AGLUTINÓGENOS FIMBRIAIS DE BORDETELLA PERTUSSIS DOS SOROTIPOS 2 E 3, Pertactina, Toxóide diftérico, Toxóide Tetânico, Poliovírus inativados tipo 1, Poliovírus inativados tipo 2, Poliovírus inativados tipo 3, Polissacarídeo de Haemophilus influenzae tipo b
+181000023 | pertecnetato de sódio (99m Tc)
+ | AMESPRO FLUORNICOTINAMIDA (18 F)
+104070099 | imunoglobulina heteróloga contra veneno de Bothrops sp, imunoglobulina heteróloga contra veneno de Crotalus sp
+181000017 | FLUORETO ESTANHOSO
+110630144 | Poliovírus Tipo 2, Poliovírus Tipo 1, Poliovírus Tipo 3
+101070121 | Virus da varicela
+100610085 | BRYOPHYLLUM CALYCINUM
+104070004 | imunoglobulina heteróloga contra veneno de Bothrops sp
+113980035 | SAL SÓDICO
+185120001 | FLUDESOXIGLICOSE 18F
+122340052 | POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 1, POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 2, POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 3 , POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 4 , POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTIPO 5, POLISSACARÍDEO CAPSULAR DE STREPTOCOCCUS PNEUMONIAE SOROTI
+ | FLORBETABENO (18 F)
+ | PIBENZOTIAZOL (11 C)
+106390284 | alfagalsidase
+101070322 | Oligossacarídeo Meningocócico A, OLIGOSSACARÍDEO MENINGOCÓCICO DO GRUPO C, Oligossacarídeo Meningocócico W135, Oligossacarídeo Meningocócico Y
+101510134 | Cepa influenza tipo A (H1N1), Cepa influenza tipo A (H3N2), CEPA INFLUENZA TIPO B
+110630114 | POLISSACARÍDEO N. Meningitidis TIPO A, POLISSACARÍDEO N. Meningitidis TIPO C
+122340038 | vírus rábico inativado
+104070098 | Imunoglobulina Heteróloga contra o veneno de Lachesis muta, imunoglobulina heteróloga contra veneno de Bothrops sp
+100610024 | KALI PHOSPHORICUM, Aurum metallicum, FERRUM SULPHURICUM, SILICEA
+100610095 | AVENA SATIVA, PASSIFLORA ALATA, VALERIANA OFFICINALIS
+101070321 | PROTEÍNA DE FUSÃO NHBA RECOMBINANTE DE NEISSERIA MENINGITIDIS GRUPO B, VESÍCULAS DE MEMBRANA EXTERNA (OMV) DE NEISSERIA MENINGITIDIS GRUPO B, CEPA NZ98/254 , PROTEÍNA DE FUSÃO FHBP RECOMBINANTE DE NEISSERIA MENINGITIDIS GRUPO B, Proteína Nad A recombinante de Neisseria meningitidis grupo B
+122340049 | POLISSACARÍDEO DE NEISSERIA MENINGITIDIS DO SOROGRUPO A CONJUGADO A PROTEÍNA CARREADORA TOXOIDE TETÂNICO, POLISSACARÍDEO DE NEISSERIA MENINGITIDIS DO SOROGRUPO C CONJUGADO A PROTEÍNA CARREADORA TOXOIDE TETÂNICO, POLISSACARÍDEO DE NEISSERIA MENINGITIDIS DO SOROGRUPO Y CONJUGADO A PROTEÍNA CARREADORA TOXOIDE TETÂNICO, POLISSACARÍDEO DE NEISSERIA MENINGITIDIS DO SOROGRUPO W CONJUG
+122340012 | imunoglobulina heteróloga contra veneno de Phoneutria nigriventer, imunoglobulina heteróloga contra veneno de Tityus serrulatus, Imunoglobulina heteróloga contra veneno de Loxosceles gaucho
+122340044 | Partícula semelhante a vírus de proteína L1 do HPV do tipo 6, Partícula semelhante a vírus de proteína L1 do HPV do tipo 11, Partícula semelhante a vírus de proteína L1 do HPV do tipo 16, Partícula semelhante a vírus de proteína L1 do HPV do tipo 18
+101710219 | VÍRUS DA HEPATITE A PURIFICADO INATIVADO
+109170145 | ÁGUA DO MAR
+112090122 | Imunoglobulina heteróloga contra toxina tetânica
+198990001 | FLUDESOXIGLICOSE 18F
+101070119 | VÍRUS DA HEPATITE A INATIVADO, VÍRUS DA HEPATITE A PURIFICADO INATIVADO, Antígeno de superfície da Hepatite B
+100610065 | DROSERA ROTUNDIFOLIA, cephaelis ipecacuanhA, BRYONIA ALBA L., Cuprum aceticum
+115570041 | SACCHAROMYCES CEREVISAE
+104070008 | imunoglobulina heteróloga contra veneno de Crotalus sp
+118600108 | EXTRATO DA RAIZ DE ALTHAEA OFFICINALIS
+181000015 | iodeto de sódio 131I
+164000009 | SELÊNIO
+122340037 | Imunoglobulina Heteróloga
+183260414 | Vírus 17D da Febre Amarela
+128760017 | degarelix, acetato de degarelix
+101710216 | Rearranjo de rotavírus humano/bovino G1, Rearranjo de rotavírus humano/bovino G2, Rearranjo de rotavírus humano/bovino G3, Rearranjo de rotavírus humano/bovino G4, Rearranjo de rotavírus humano/bovino P1A[8], vacina rotavírus humano/bovino G1, G2, G3, G4 e P1A[8] (atenuada)
+122340004 | Imunoglobulina Heteóloga contra o veneno de Lachesis muta, imunoglobulina heteróloga contra veneno de Bothrops sp
