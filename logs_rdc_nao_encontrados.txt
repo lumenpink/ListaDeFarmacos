@@ -3,7 +3,6 @@ Betacetilmetadol
 Concentrado de palha de dormideira
 Diidromorfina
 Dimefeptanol (metadol)
-Dioxafetila
 Intermediário da metadona (4-ciano-2-dimetilamina-4,4-difenilbutano)
 Intermediário da moramida (ácido 2-metil-3-morfolina-1,1-difenilpropano carboxílico)
 Intermediário "a" da petidina (4-ciano-1-metil-4-fenilpiperidina)
@@ -19,6 +18,7 @@ Tanfetamina
 Bromazolam
 Clonazolam
 Clorazepato
+Cloreto de etila
 Cloreto de metileno/diclorometano
 Diclazepam
 Etilanfetamina (N-etilanfetamina)
@@ -41,7 +41,6 @@ Facetoperano
 Hidroclorbezetilamina
 Imicloprazina
 Isopropil-crotonil-uréia
-Lítio
 Mepazina
 Nitrito de isobutila
 Nitrito de isopentila
@@ -82,8 +81,10 @@ Norfentanila
 Óleo de sassafrás
 Óleo da pimenta longa
 NPP ou (N-fenetil-4-piperidinona)
+Cloreto de etila
 Cloreto de metileno/diclorometano
 Metil etil cetona
+Sulfato de sódio
 Claviceps paspali Stevens & Hall.
 Datura suaveolens Willd.
 Erythroxylum coca Lam.
