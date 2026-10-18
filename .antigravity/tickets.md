@@ -1,55 +1,32 @@
-# Active Tickets - ListaDeFármacos
-> Ceiling: 10240 bytes
+# Active Tickets - ListaDeFarmacos
+> Synced at: 2026-10-17 17:56:09 UTC
+> Ceiling: 10240 bytes (strictly uncut tickets)
 
-
-## [#101] test(ListaDeFármacos): estruturar suite de testes automatizados e alcancar piso de 90% de cobertura
+## [#2] chore(ListaDeFármacos): adequar licenciamento para GPL-3.0 e reescrever historico de commits
 - **Status**: `open`
-- **Labels**: gost, quality
+- **Labels**: none
+- **Link**: https://codeberg.org/lumenpink/ListaDeFarmacos/issues/2
 
 ### Description
-## Description
-O repositório `ListaDeFármacos` necessita de uma suíte formal de testes automatizados para cumprir a Seção 6 da norma GOST (Piso de cobertura >= 90% e testes unitários herméticos).
+## Contexto e Objetivo
+Adequar a conformidade jurídica e documental do repositório `ListaDeFármacos` ao padrão canônico GOST, estabelecendo **GNU General Public License v3.0 (GPL-3.0-or-later)** como licença padrão da raiz e alinhando os metadados de governança.
 
-## Expected Behavior & Acceptance Criteria
-- [ ] Configurar framework de testes idiomático para a stack do projeto.
-- [ ] Criar casos de teste cobrindo funcionalidades críticas de domínio.
-- [ ] Atingir piso mínimo comprovado de 90% de cobertura de código.
+## Requisitos de Licenciamento
+1. **Licença Raiz:** Criar/substituir o arquivo `LICENSE` com o texto integral da **GNU General Public License v3.0**.
+2. **Satélites Obrigatórios (se aplicável):**
+   - `LICENSE-LOGO`: Creative Commons Atribuição-SemDerivações 4.0 Internacional (`CC-BY-ND-4.0`) para ícones, insígnias e marcas.
+   - `LICENSE-MEDIA`: Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (`CC-BY-SA-4.0`) para áudios, ilustrações e mídias.
+3. **Mapeamento no `README.md`:** Incluir seção `## 📄 Licença` com tabela de mapeamento explícito de caminhos e licenças correspondentes.
+4. **Manifestos e Metadados:** Sincronizar cabeçalhos, manifestos (`Cargo.toml` / `package.json` com SPDX `GPL-3.0-or-later`).
+5. **Documentação / Site:** Atualizar o rodapé e metadados de `site/index.html` para refletir `GPL-3.0`.
 
-## Tasks / DD-TDD Checklist (9 Fases GOST)
-- [ ] Fase 1 - Ticket: Issue formalizada e escopo delimitado
-- [ ] Fase 2 - Branch: Branch `test/101-test-suite` criada a partir de develop/main
-- [ ] Fase 3 - Doc/Spec: Contrato preliminar e especificação (Zero código de produção)
-- [ ] Fase 4 - Red: Teste automatizado falho comprovando o requisito
-- [ ] Fase 5 - Green: Implementação mínima funcional com teste passando
-- [ ] Fase 6 - Refactor: Código limpo, idiomático e com Zero Warnings
-- [ ] Fase 7 - Mutation: Mutantes críticos eliminados com asserções robustas
-- [ ] Fase 8 - Quality Gate: Cobertura >= 90%, linter -D warnings e formatação validados
-- [ ] Fase 9 - Close: Changelog e documentação atualizados; commit com (closes #101)
+## ⚠️ Requisito Mandatório: Reescrita Completa do Histórico Git
+O histórico de commits deve ser **integralmente reescrito** (via `git-filter-repo` ou rebase interativo) para:
+- Expurgar todos os commits, árvores e blobs anteriores que contenham referências às licenças removidas/revogadas.
+- Higienizar mensagens de commits passados para eliminar citações a termos incompatíveis.
+- Garantir que qualquer auditoria forense no repositório ateste conformidade estrita e contínua desde o commit inicial.
 
----
-
-## [#102] ci(ListaDeFármacos): configurar workflow de integracao continua no Forgejo
-- **Status**: `open`
-- **Labels**: gost, quality
-
-### Description
-## Description
-O repositório `ListaDeFármacos` não possui pipeline automatizado de CI/CD configurado em `.forgejo/workflows/` para validação de testes, lint e auditoria GOST a cada push.
-
-## Expected Behavior & Acceptance Criteria
-- [ ] Criar workflow `.forgejo/workflows/ci.yaml`.
-- [ ] Adicionar jobs de linting, execução de testes e verificação de conformidade GOST (`cccp gost --strict`).
-- [ ] Garantir execução verde e bloqueio de regressões no branch principal.
-
-## Tasks / DD-TDD Checklist (9 Fases GOST)
-- [ ] Fase 1 - Ticket: Issue formalizada e escopo delimitado
-- [ ] Fase 2 - Branch: Branch `ci/102-forgejo-workflow` criada a partir de develop/main
-- [ ] Fase 3 - Doc/Spec: Contrato preliminar e especificação (Zero código de produção)
-- [ ] Fase 4 - Red: Teste automatizado falho comprovando o requisito
-- [ ] Fase 5 - Green: Implementação mínima funcional com teste passando
-- [ ] Fase 6 - Refactor: Código limpo, idiomático e com Zero Warnings
-- [ ] Fase 7 - Mutation: Mutantes críticos eliminados com asserções robustas
-- [ ] Fase 8 - Quality Gate: Cobertura >= 90%, linter -D warnings e formatação validados
-- [ ] Fase 9 - Close: Changelog e documentação atualizados; commit com (closes #102)
+## Conclusão do Ciclo
+Após a reescrita do histórico e validação pelo `cccp check --strict`, o título e descrição deste ticket devem ser atualizados para a mensagem genérica de governança: `docs(meta): adequacao de conformidade e integridade documental`.
 
 ---

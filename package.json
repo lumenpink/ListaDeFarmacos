@@ -1,5 +1,5 @@
 {
-  "name": "listadefármacos",
+  "name": "listadef\u00e1rmacos",
   "module": "index.ts",
   "type": "module",
   "private": true,
@@ -14,5 +14,6 @@
     "csv-parser": "^3.2.1",
     "exceljs": "^4.4.0",
     "pdf-parse": "^2.4.5"
-  }
+  },
+  "license": "GPL-3.0-or-later"
 }
